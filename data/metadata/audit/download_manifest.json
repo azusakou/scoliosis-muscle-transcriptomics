@@ -1,0 +1,212 @@
+[
+  {
+    "path": "metadata/PRJNA722100_bioproject_esearch.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=bioproject&term=PRJNA722100%5BProject%20Accession%5D&retmode=json",
+    "bytes": 321,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/PRJNA722100_bioproject.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=bioproject&id=722100&retmode=xml",
+    "bytes": 1911,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/PRJNA722100_sra_esearch.json",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=sra&term=PRJNA722100%5BBioProject%5D&retmax=1000&retmode=json",
+    "bytes": 335,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/PRJNA722100_sra_experiments.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=sra&id=14080942,14080941,14080940,14080939&retmode=xml",
+    "bytes": 39703,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/GSE254300_family.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE254300&targ=all&view=full&form=text",
+    "bytes": 39510475,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/GSE254300_supplementary_index.html",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254300/suppl/",
+    "bytes": 687,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/relevant_pubmed_records.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=38440359,41836551,37185898,42244182,30241458,35137485,37401090&retmode=xml",
+    "bytes": 49457,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/PMC10130095_original_paper_bioc.json",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC10130095/unicode",
+    "bytes": 105860,
+    "local_status": "present"
+  },
+  {
+    "path": "metadata/PMC10910612_bulk_paper_bioc.json",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC10910612/unicode",
+    "bytes": 92719,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/GSE311180_family.soft.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE311nnn/GSE311180/soft/GSE311180_family.soft.gz",
+    "bytes": 4029,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/PRJNA1368770_sra_metadata.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=sra&id=41673893,41673892,41673891,41673890,41673889,41673888,41673887,41673886,41673885,41673884,41673883,41673882,41673881,41673880,41673879,41673878,41673877,41673876,41673875,41673874,41673873&retmode=xml",
+    "bytes": 171412,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/mmc2.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666247726000710-mmc2.xlsx",
+    "bytes": 11936,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/PMC13316586.xml",
+    "url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC13316586/unicode",
+    "bytes": 142087,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse324067/GSE324067_family.soft.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE324nnn/GSE324067/soft/GSE324067_family.soft.gz",
+    "bytes": 3310,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse324067/GSE324067_family.xml.tgz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE324nnn/GSE324067/miniml/GSE324067_family.xml.tgz",
+    "bytes": 3742,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse324067/PRJNA1433384_sra_metadata.xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=sra&id=43284803,43284802,43284801,43284800,43284799,43284798,43284797,43284796,43284795,43284794,43284793,43284792,43284791,43284790,43284789,43284788,43284787,43284786&retmode=xml",
+    "bytes": 311097,
+    "local_status": "present"
+  },
+  {
+    "path": "reference_gse17503/GSE17503_family.soft.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17503/soft/GSE17503_family.soft.gz",
+    "bytes": 5916027,
+    "local_status": "present"
+  },
+  {
+    "path": "literature_tent5a_2022/PMC8891553_fullTextXML.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8891553/fullTextXML",
+    "bytes": 117103,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk/GSE254300_readcount.xlsx",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254300/suppl/GSE254300_readcount.xlsx",
+    "bytes": 1989132,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk/GSE254300_fpkm.xlsx",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE254nnn/GSE254300/suppl/GSE254300_fpkm.xlsx",
+    "bytes": 4566458,
+    "local_status": "present"
+  },
+  {
+    "path": "scrna/H01045_concave_cellranger.tar.gz",
+    "url": "https://drive.usercontent.google.com/download?id=1IkX-gLNTf5Tg_0GQ13mKDJh99xk5p9rX&export=download&confirm=t",
+    "bytes": 84526029,
+    "local_status": "present"
+  },
+  {
+    "path": "scrna/H01045_convex_cellranger.tar.gz",
+    "url": "https://drive.usercontent.google.com/download?id=1M4ueXhpUxCef1t-rpwNhTBhYe-73-OnW&export=download&confirm=t",
+    "bytes": 88698476,
+    "local_status": "present"
+  },
+  {
+    "path": "scrna/H66206_concave_cellranger.tar.gz",
+    "url": "https://drive.usercontent.google.com/download?id=1D3utrtoZ3SaEBe4UQwdupJyxG_Qrq3dI&export=download&confirm=t",
+    "bytes": 88084120,
+    "local_status": "present"
+  },
+  {
+    "path": "scrna/H66206_convex_cellranger.tar.gz",
+    "url": "https://drive.usercontent.google.com/download?id=16t7GHJ-CfSaaZ-6SLvf7K9zIqFnbCR1v&export=download&confirm=t",
+    "bytes": 95933070,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/GSE311180_TPM_allSamples.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE311nnn/GSE311180/suppl/GSE311180_TPM_allSamples.txt.gz",
+    "bytes": 1927875,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/mmc3.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666247726000710-mmc3.xlsx",
+    "bytes": 964376,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/mmc5.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666247726000710-mmc5.xlsx",
+    "bytes": 885371,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/mmc6.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666247726000710-mmc6.xlsx",
+    "bytes": 946568,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/mmc15.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666247726000710-mmc15.xlsx",
+    "bytes": 6236375,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse311180/mmc18.zip",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666247726000710-mmc18.zip",
+    "bytes": 2088,
+    "local_status": "present"
+  },
+  {
+    "path": "bulk_gse324067/GSE324067_RAW.tar",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE324nnn/GSE324067/suppl/GSE324067_RAW.tar",
+    "bytes": 4618240,
+    "local_status": "present"
+  },
+  {
+    "path": "reference_gse17503/GSE17503_non-normalized_data.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17503/suppl/GSE17503_non-normalized_data.txt.gz",
+    "bytes": 2539213,
+    "local_status": "present"
+  },
+  {
+    "path": "reference_gse17503/GSE17503_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE17nnn/GSE17503/matrix/GSE17503_series_matrix.txt.gz",
+    "bytes": 1037287,
+    "local_status": "present"
+  },
+  {
+    "path": "literature_h19_2018/10020_2018_49_MOESM1_ESM.docx",
+    "url": "https://static-content.springer.com/esm/art%3A10.1186%2Fs10020-018-0049-y/MediaObjects/10020_2018_49_MOESM1_ESM.docx",
+    "bytes": 4673892,
+    "local_status": "present"
+  },
+  {
+    "path": "literature_tent5a_2022/PMC8891553_supplementaryFiles.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8891553/supplementaryFiles",
+    "bytes": 1147027,
+    "local_status": "present"
+  }
+]

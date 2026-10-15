@@ -1,0 +1,11 @@
+field	value
+public_input_relative_path	data/processed/scrna/scrna_annotated.rds
+input_object_role	independently_reconstructed_public_scRNAseq_retained_singlets
+input_object_sha256	7d6e12b7cd2fd0c4bada0751c4f3760ed5a40ea37d4668bff259cb247e1827ac
+n_retained_cells	14846
+n_gene_targets	18
+n_summary_rows	1296
+n_candidate_cell_source_rows	89076
+n_all_target_cell_source_rows	534456
+R_version	4.4.2
+scope	no_new_primary_signature;closed_biological_targets;all_negative_results_retained;two_donors_descriptive_only

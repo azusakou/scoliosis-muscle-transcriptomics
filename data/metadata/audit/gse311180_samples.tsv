@@ -1,0 +1,28 @@
+sample_id	patient_id	diagnosis	tissue	side	sex	age	spinal_level	cobb_angle	geo_accession	geo_title	matrix_column	matrix_mapping_status	sra_experiment	sra_fastq_filenames	complete_pair	analysis_role
+DR35	STB-067	AIS	Muscle	concave	M	14	L3	73	GSM9320745	AIS, muscle, concave, patient 1	DR35	exact_sample_id	SRX31215237	DR35_1.fq.gz;DR35_2.fq.gz	FALSE	unpaired_AIS_excluded_from_paired_test
+DR144	STB-084	AIS	Muscle	concave	F	12	T9	49	GSM9320746	AIS, muscle, concave, patient 2	DR144	exact_sample_id	SRX31215238	DR144_1.fq.gz;DR144_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR113	STB-050	AIS	Muscle	concave	F	20	T6-T7	55	GSM9320747	AIS, muscle, concave, patient 3	DR113	exact_sample_id	SRX31215239	DR113_1.fq.gz;DR113_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR115	STB-086	AIS	Muscle	concave	F	13	T12-L2	68	GSM9320748	AIS, muscle, concave, patient 4	DR115	exact_sample_id	SRX31215240	DR115_1.fq.gz;DR115_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR118	STB-100	AIS	Muscle	concave	M	15	T10-L1	54	GSM9320749	AIS, muscle, concave, patient 5	DR118	exact_sample_id	SRX31215241	DR118_1.fq.gz;DR118_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR145	STB-085	AIS	Muscle	concave	F	13	T7-T10	60	GSM9320750	AIS, muscle, concave, patient 6	DR145	exact_sample_id	SRX31215242	DR145_1.fq.gz;DR145_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR146	STB-095	AIS	Muscle	concave	F	14	T7-T10	57	GSM9320751	AIS, muscle, concave, patient 7	DR146	exact_sample_id	SRX31215243	DR146_1.fq.gz;DR146_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR147	STB-062	AIS	Muscle	concave	F	12	T12-L1	58	GSM9320752	AIS, muscle, concave, patient 8	DR147	exact_sample_id	SRX31215244	DR147_1.fastq;DR147_2.fastq	TRUE	raw_FASTQ_requantification_candidate
+DR50	STB-062	AIS	Muscle	convex	F	12	T12-L1	58	GSM9320758	AIS, muscle, convex, patient 8	DR50	exact_sample_id	SRX31215250	DR50_1.fq.gz;DR50_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR75	STB-085	AIS	Muscle	convex	F	13	T7-10	60	GSM9320757	AIS, muscle, convex, patient 6	DR75	exact_sample_id	SRX31215249	DR75_1.fq.gz;DR75_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR81	STB-094	AIS	Muscle	convex	F	16	T11-T12, L2	68	GSM9320759	AIS, muscle, convex, patient 9	DR81	exact_sample_id	SRX31215251	DR81_1.fq.gz;DR81_2.fq.gz	FALSE	unpaired_AIS_excluded_from_paired_test
+DR100	STB-095	AIS	Muscle	convex	F	14	T7-T10	57	GSM9320760	AIS, muscle, convex, patient 10	DR100	exact_sample_id	SRX31215252	DR100_1.fq.gz;DR100_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR73	STB-084	AIS	Muscle	convex	F	12	T9	49	GSM9320753	AIS, muscle, convex, patient 2	DR73	exact_sample_id	SRX31215245	DR73_1.fq.gz;DR73_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR140	STB-050	AIS	Muscle	convex	F	20	T8-T9	55	GSM9320754	AIS, muscle, convex, patient 3	DR140	exact_sample_id	SRX31215246	DR140_1.fq.gz;DR140_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR141	STB-086	AIS	Muscle	convex	F	13	T12-L2	68	GSM9320755	AIS, muscle, convex, patient 4	DR141	exact_sample_id	SRX31215247	DR141_1.fq.gz;DR141_2.fq.gz	TRUE	raw_FASTQ_requantification_candidate
+DR148	STB-100	AIS	Muscle	convex	M	15	T10-L1	54	GSM9320756	AIS, muscle, convex, patient 5	DR148	exact_sample_id	SRX31215248	DR148_1.fastq;DR148_2.fastq	TRUE	raw_FASTQ_requantification_candidate
+DR51	STB-068	spinal stenosis	Muscle	n/a	F	48	N/S	N/A	GSM9320761	control, muscle, patient 1	DR51	exact_sample_id	SRX31215253	DR51_1.fq.gz;DR51_2.fq.gz	FALSE	adult_control_age_confounded_context_only
+DR111	STB-065	lumbar spondylosis 	Muscle	n/a	M	59	T8-11	N/A	GSM9320762	control, muscle, patient 2	DR111	exact_sample_id	SRX31215254	DR111_1.fq.gz;DR111_2.fq.gz	FALSE	adult_control_age_confounded_context_only
+DR112	STB-066	thoracic spinal stenosis and disc herniation	Muscle	n/a	M	18	T12	N/A	GSM9320763	control, muscle, patient 3	RD112	documented_unique_header_transposition_DR112_to_RD112	SRX31215255	DR112_1.fq.gz;DR112_2.fq.gz	FALSE	adult_control_age_confounded_context_only
+DR152	STB-123	lumbar spondylosis	Muscle	n/a	M	45	L5-S1	N/A	GSM9320764	control, muscle, patient 4	DR152	exact_sample_id	SRX31215256	DR152_1.fq.gz;DR152_2.fq.gz	FALSE	adult_control_age_confounded_context_only
+DR154	STB-124	lumbar spondylosis	Muscle	n/a	F	65	L4-L5	N/A	GSM9320765	control, muscle, patient 5	DR154	exact_sample_id	SRX31215257	DR154_1.fq.gz;DR154_2.fq.gz	FALSE	adult_control_age_confounded_context_only
+NM7	IS1	AIS	Cartilage	n/s	F	11	T10-T12	54				absent			FALSE	cartilage_not_paraspinal_muscle
+NM9	IS2	AIS	Cartilage	n/s	F	13	T4, T8, T10	69				absent			FALSE	cartilage_not_paraspinal_muscle
+NM8	IS3	AIS	Cartilage	n/s	F	16	T7-T11	53				absent			FALSE	cartilage_not_paraspinal_muscle
+SAMN09302740		internal fixation of the lumbar spine 	Cartilage	n/a	M	27	T12-L2	N/A				absent			FALSE	cartilage_not_paraspinal_muscle
+SAMN09302739		internal fixation of the lumbar spine 	Cartilage	n/a	F	18	T12-L2	N/A				absent			FALSE	cartilage_not_paraspinal_muscle
+SAMN09302738		internal fixation of the lumbar spine 	Cartilage	n/a	F	32	T12-L2	N/A				absent			FALSE	cartilage_not_paraspinal_muscle

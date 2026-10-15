@@ -1,0 +1,14 @@
+field	value
+input_object	data/processed/scrna/scrna_annotated.rds
+input_object_md5	01f63047ccb4943523bb47407811f301
+audit_script_md5	c74481195e969373ead483af0267712f
+signature_md5	38c498243f1617f63c0fd2245e3d4b1f
+R_version	4.4.2
+Seurat_version	5.4.0
+n_retained_singlets	14846
+n_libraries	4
+n_lineages	9
+n_requested_genes	158
+n_available_genes_in_both_assays	158
+n_summary_rows	11376
+scientific_scope	descriptive_per_cell_before_after_same_retained_singlets_no_cell_level_hypothesis_test

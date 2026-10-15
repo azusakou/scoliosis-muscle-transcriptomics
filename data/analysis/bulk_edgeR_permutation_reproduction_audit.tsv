@@ -1,0 +1,3 @@
+cohort	n_original_tested_genes	n_common_genes	max_observed_logFC_error	observed_tissue_and_patient_map
+GSE254300	14296	12995	1.16947423967062e-12	original_audited_labels_unchanged
+GSE311180	17961	12995	4.88498130835069e-15	original_audited_labels_unchanged

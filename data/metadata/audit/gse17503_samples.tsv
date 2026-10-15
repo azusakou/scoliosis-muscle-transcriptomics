@@ -1,0 +1,11 @@
+sample_id	title	patient_id	material
+GSM436162	B19 In Vitro	B19	culture
+GSM436164	B22 In Vitro	B22	culture
+GSM436432	B24 In Vitro	B24	culture
+GSM436433	B25 in Vitro	B25	culture
+GSM436434	B26 In Vitro	B26	culture
+GSM436435	B19 In Vivo	B19	biopsy
+GSM436436	B22 In Vivo	B22	biopsy
+GSM436437	B24 In Vivo	B24	biopsy
+GSM436438	B25 In Vivo	B25	biopsy
+GSM436439	B26 In Vivo	B26	biopsy

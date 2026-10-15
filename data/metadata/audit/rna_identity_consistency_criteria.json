@@ -1,0 +1,12 @@
+{
+  "specified_UTC": "2026-10-12T12:41:52.048278+00:00",
+  "expected_metadata_pairs": 7,
+  "total_sample_comparisons": 91,
+  "minimum_shared_callable_sites": 1000,
+  "same_profile_relatedness_minimum": 0.9,
+  "maximum_IBS0_fraction": 0.01,
+  "require_reciprocal_best_match": true,
+  "RNA_minimum_depth": 7,
+  "RNA_minimum_het_allele_balance": 0.2,
+  "scope": "Conservative descriptive consistency gates specified before extraction; insufficient coverage is inconclusive; RNA allelic imbalance and sample mixing can affect metrics; never authenticates anatomical side or personal/clinical identity."
+}

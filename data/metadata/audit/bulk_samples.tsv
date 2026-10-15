@@ -1,0 +1,21 @@
+dataset	geo_accession	submitted_title	processed_sample_id	cohort	patient_id	side	subject_status	tissue	instrument_model	library_strategy	library_source	sra_experiment	biosample_accession
+GSE254300	GSM8037393	IS6A [IS1A in processed data]	IS1A	AIS	IS1	concave	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408790	SAMN39621112
+GSE254300	GSM8037394	IS6T [IS1T in processed data]	IS1T	AIS	IS1	convex	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408791	SAMN39621111
+GSE254300	GSM8037385	IS12A [IS2A in processed data]	IS2A	AIS	IS2	concave	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408782	SAMN39621120
+GSE254300	GSM8037386	IS12T [IS2T in processed data]	IS2T	AIS	IS2	convex	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408783	SAMN39621119
+GSE254300	GSM8037387	IS15A [IS3A in processed data]	IS3A	AIS	IS3	concave	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408784	SAMN39621118
+GSE254300	GSM8037388	IS15T [IS3T in processed data]	IS3T	AIS	IS3	convex	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408785	SAMN39621117
+GSE254300	GSM8037389	IS33A [IS4A in processed data]	IS4A	AIS	IS4	concave	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408786	SAMN39621116
+GSE254300	GSM8037390	IS33T [IS4T in processed data]	IS4T	AIS	IS4	convex	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408787	SAMN39621115
+GSE254300	GSM8037391	IS37A [IS5A in processed data]	IS5A	AIS	IS5	concave	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408788	SAMN39621114
+GSE254300	GSM8037392	IS37T [IS5T in processed data]	IS5T	AIS	IS5	convex	idiopathic scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408789	SAMN39621113
+GSE254300	GSM8037383	CS7A [CS1A in processed data]	CS1A	congenital_scoliosis	CS1	concave	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408780	SAMN39621122
+GSE254300	GSM8037384	CS7T [CS1T in processed data]	CS1T	congenital_scoliosis	CS1	convex	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408781	SAMN39621121
+GSE254300	GSM8037377	CS2A [CS2A in processed data]	CS2A	congenital_scoliosis	CS2	concave	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408774	SAMN39621128
+GSE254300	GSM8037378	CS2T [CS2T in processed data]	CS2T	congenital_scoliosis	CS2	convex	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408775	SAMN39621127
+GSE254300	GSM8037379	CS5A [CS3A in processed data]	CS3A	congenital_scoliosis	CS3	concave	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408776	SAMN39621126
+GSE254300	GSM8037380	CS5T [CS3T in processed data]	CS3T	congenital_scoliosis	CS3	convex	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408777	SAMN39621125
+GSE254300	GSM8037381	CS6A [CS4A in processed data]	CS4A	congenital_scoliosis	CS4	concave	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408778	SAMN39621124
+GSE254300	GSM8037382	CS6T [CS4T in processed data]	CS4T	congenital_scoliosis	CS4	convex	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408779	SAMN39621123
+GSE254300	GSM8037375	CS10A [CS5A in processed data]	CS5A	congenital_scoliosis	CS5	concave	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408772	SAMN39621130
+GSE254300	GSM8037376	CS10T [CS5T in processed data]	CS5T	congenital_scoliosis	CS5	convex	congenital scoliosis patient	Bilateral paraspinal muscle	Illumina NovaSeq 6000	RNA-Seq	transcriptomic	SRX23408773	SAMN39621129

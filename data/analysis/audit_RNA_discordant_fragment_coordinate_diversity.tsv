@@ -1,0 +1,15 @@
+patient_id	homozygous_call_sample	heterozygous_call_sample	original_discordant_loci	homo_loci_with_HQ_proper_templates	het_loci_with_HQ_proper_templates	homo_HQ_read_bases_median	het_HQ_read_bases_median	homo_qname_templates_median	het_qname_templates_median	homo_distinct_coordinates_median	het_distinct_coordinates_median	homo_loci_with_1_or_2_coordinates	homo_loci_with_7plus_coordinates	homo_loci_with_other_allele_coordinates	het_loci_with_both_alleles_coordinates	homo_total_qname_templates	homo_total_distinct_coordinates	scope
+STB-050	DR113	DR140	6	6	6	10.0	12.0	8.0	11.5	5.0	3.5	0	2	0	6	52	36	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-050	DR140	DR113	154	154	154	12.0	14.0	10.0	13.0	3.0	10.0	76	6	0	154	1895	443	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-062	DR147	DR50	44	44	44	11.0	24.0	9.0	23.0	4.5	4.0	4	7	0	44	462	208	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-062	DR50	DR147	212	212	212	15.0	17.0	13.0	15.0	3.0	8.0	103	2	0	210	3083	574	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-084	DR144	DR73	412	412	412	14.0	21.0	12.0	18.5	2.0	12.0	261	9	0	410	5789	1036	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-084	DR73	DR144	13	13	13	10	25	9	20	5	4	1	4	0	13	270	138	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-085	DR145	DR75	128	128	128	11.5	15.0	10.0	13.0	3.0	8.0	46	8	0	128	1485	429	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-085	DR75	DR145	18	18	18	9.5	17.5	8.0	15.5	5.0	4.0	2	3	0	16	198	109	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-086	DR115	DR141	7	7	7	10	17	8	17	6	6	0	2	0	7	67	44	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-086	DR141	DR115	78	77	78	11.0	14.0	9.0	12.0	3.0	9.0	20	4	0	78	823	281	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-095	DR100	DR146	27	27	27	9	17	8	12	4	4	3	3	0	27	321	146	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-095	DR146	DR100	115	115	115	12	18	9	15	3	8	36	1	0	114	1207	381	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-100	DR118	DR148	5	5	5	10	15	7	15	5	4	0	2	0	5	65	46	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity
+STB-100	DR148	DR118	301	300	301	11	22	10	20	2	14	194	5	0	301	3509	676	Coordinate diversity proxy; not molecular/PCR duplicate count, genotype reclassification or DNA identity

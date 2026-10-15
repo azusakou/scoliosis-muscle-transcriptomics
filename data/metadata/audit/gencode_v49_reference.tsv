@@ -1,0 +1,10 @@
+field	value
+reference	GENCODE_human_release_49
+transcript_fasta	/Volumes/wang/paper14/ais_paraspinal_ecology/reference/gencode_v49/gencode.v49.transcripts.fa.gz
+annotation_gtf	/Volumes/wang/paper14/ais_paraspinal_ecology/reference/gencode_v49/gencode.v49.annotation.gtf.gz
+transcript_fasta_sha256	08ee7ee86514061de6fd62dc643c2fe962fbc393080589ebc491bd11e22b119e
+annotation_gtf_sha256	d6e6fe0515c95b2a8cd36a853c1989cee9115c736c60237c56ae92b9daaaf7c4
+tx2gene_sha256	c539939300c2971b5d883608afa0c62d114d9cb2b70fa68f86a5c8b56b897d1a
+n_transcripts_in_tx2gene	507365
+salmon_version	salmon 2.3.4
+index_mode	transcriptome_only_gencode_k31

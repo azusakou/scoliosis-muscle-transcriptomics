@@ -1,0 +1,15 @@
+patient_id	homozygous_call_sample	heterozygous_call_sample	discordant_sites	zero_minor_allele_sites	hom_depth_7_14	hom_depth_15_29	hom_depth_30_99	hom_depth_100_plus	hom_depth_median	opposite_het_depth_median	chromosomes_with_discordance	hom_call_side_zero_minor_fraction	hom_reference_allele_sites	hom_alternate_allele_sites
+STB-095	DR100	DR146	27	27	24	2	1	0	9	12	16	1.0	10	17
+STB-095	DR146	DR100	115	115	99	16	0	0	10	15	22	1.0	65	50
+STB-050	DR113	DR140	6	6	6	0	0	0	8.5	11.5	6	1.0	5	1
+STB-050	DR140	DR113	154	154	114	35	5	0	10.0	13.0	21	1.0	72	82
+STB-086	DR115	DR141	7	7	6	1	0	0	8	17	6	1.0	6	1
+STB-086	DR141	DR115	78	78	67	11	0	0	10.0	12.0	19	1.0	47	31
+STB-100	DR118	DR148	5	5	3	2	0	0	7	15	5	1.0	2	3
+STB-100	DR148	DR118	301	301	230	69	2	0	10	20	22	1.0	154	147
+STB-084	DR144	DR73	412	412	259	133	20	0	12.0	19.0	22	1.0	205	207
+STB-084	DR73	DR144	13	13	10	2	0	1	9	20	7	1.0	5	8
+STB-085	DR145	DR75	128	128	102	25	1	0	10.0	13.5	22	1.0	77	51
+STB-085	DR75	DR145	18	18	15	2	1	0	8.0	16.5	9	1.0	8	10
+STB-062	DR147	DR50	44	44	36	8	0	0	9.0	23.0	19	1.0	20	24
+STB-062	DR50	DR147	212	212	118	85	9	0	13.0	16.0	22	1.0	99	113

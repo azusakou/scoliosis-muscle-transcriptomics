@@ -1,0 +1,328 @@
+{
+  "record_date": "2026-10-13",
+  "scope": "Actual post hoc original-raw-RNA diagnostics; no primary gate/label changes, DNA identity, anatomical authentication, calibrated contamination or molecular/PCR duplicate claims",
+  "original_primary_producer_sha256": "d413b6a996b84173a2e5507fa1aafe9dce885398179753ebaf5f0a4be2fecbda",
+  "actual_compute_runs": [
+    {
+      "proof_basename": "independent_baseline_allele_count_reproduction.json",
+      "recorded_proof_sha256": "232b8288acbda7823ebb424e1cbe7e3ae7615f43c12c7ac9f19a85747fde4655",
+      "status": "PASS",
+      "script_sha256": "813d9fea7fd0d72db856edec679c46337fdd1b5ebf36762902cec82bda382c40",
+      "samples": 14,
+      "autosomal_markers": 16469,
+      "default_native_comparisons_reproduced": 91,
+      "scope": "Independent default integer reproduction and post hoc aggregate RNA diagnostics; not DNA identity or calibrated contamination"
+    },
+    {
+      "proof_basename": "native_grid_independent_comparison.json",
+      "recorded_proof_sha256": "5e5f572a7ff57627f83d8dedb020c05aba6dbf009eb7a489abf860619c1e8219",
+      "status": "PASS",
+      "script_sha256": "3567754704379afaddabc61473d2cfca7b844e31d7012ecde46aa67e8ce75898",
+      "decoder_sha256": "813d9fea7fd0d72db856edec679c46337fdd1b5ebf36762902cec82bda382c40",
+      "scope": "Post hoc; all original depth7/AB0.2 and interpretation gates unchanged; RNA proxies not calibrated contamination percentages",
+      "actual_settings": 12,
+      "actual_comparisons": 1092,
+      "settings": [
+        {
+          "depth": 3,
+          "min_AB": 0.1,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "425ee292118c39a47cf767b39113b98ad1dc043d56aa28d8e3a9b20348e73db8"
+        },
+        {
+          "depth": 3,
+          "min_AB": 0.2,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "05e43c0b0d8607ca491877db50f0c1b12407857797b9dc9c33a2ea757235bf5f"
+        },
+        {
+          "depth": 3,
+          "min_AB": 0.3,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "defb0929ffcce57dabd35ac2787aa3509eb191eeec34704dfe043260f117ddc7"
+        },
+        {
+          "depth": 7,
+          "min_AB": 0.1,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "6ec67e5477bb7d0a0087f7c746d9fd5331d3e1f87e370099202c4dc7079ba9d1"
+        },
+        {
+          "depth": 7,
+          "min_AB": 0.2,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "7ea29d87a2bd613fab7956bd87f7e5a05e889d6748fedb563f43f08a00264911"
+        },
+        {
+          "depth": 7,
+          "min_AB": 0.3,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "5e257f1a10e88517bcd5b5997c6a82545c48ff882f753f7f8e70acc8fc54feef"
+        },
+        {
+          "depth": 15,
+          "min_AB": 0.1,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "af7ee0eb6e67779a8e829f5422882b22505db11d7fcd691c71b6464db90c72bd"
+        },
+        {
+          "depth": 15,
+          "min_AB": 0.2,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "00b051053c1d8262a731162f07bb3d1c4add8dc881203e8b63de3eff116934dc"
+        },
+        {
+          "depth": 15,
+          "min_AB": 0.3,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "aa44f408929b4e077191bdfd72c912f6cef34c79441a5184083a69bb7f7a68c0"
+        },
+        {
+          "depth": 30,
+          "min_AB": 0.1,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "bd7aa75f88a31f428dd1a89f0549652103eb1dd5f89fd2f59a7be14b5a39a418"
+        },
+        {
+          "depth": 30,
+          "min_AB": 0.2,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "8b074572cd4467d8ec6a77fe8e79193d483d068e4489ead247323e5419aaf119"
+        },
+        {
+          "depth": 30,
+          "min_AB": 0.3,
+          "all91_integer_statistics": "PASS",
+          "native_pairs_sha256": "cf39d1335203dd3be434810d9e222612649cf39cd8c4f8de8a018031945650eb"
+        }
+      ]
+    },
+    {
+      "proof_basename": "independent_unique_high_quality_pileup_QA.json",
+      "recorded_proof_sha256": "867f9ad72b95ad5e0a12d38127d63feaa3ff088f29f6ea7e2c447339123dd001",
+      "status": "PASS",
+      "script_sha256": "f41c66b14b563f8f5f7b8de27699792514ab69d3156c25717d6971ebf910bc47",
+      "allele_decoder_script_sha256": "813d9fea7fd0d72db856edec679c46337fdd1b5ebf36762902cec82bda382c40",
+      "samples": 14,
+      "markers": 16469,
+      "native_and_independent_pair_counts_verified": 91,
+      "scope": "Post hoc read-quality sensitivity; original RNA gates unchanged; no calibrated contamination or DNA/anatomy claim"
+    },
+    {
+      "proof_basename": "independent_unique_high_quality_pileup_overlap_retained_QA.json",
+      "recorded_proof_sha256": "acb81e5302336b209cb23f6971d6e8962013905c81014be5affb8ed44f298650",
+      "status": "PASS",
+      "script_sha256": "06fcf3bc5d3f2df5cb4165b4e71f33ab0c46593c5eecccfe05ace648a91d6204",
+      "allele_decoder_script_sha256": "813d9fea7fd0d72db856edec679c46337fdd1b5ebf36762902cec82bda382c40",
+      "samples": 14,
+      "markers": 16469,
+      "native_and_independent_pair_counts_verified": 91,
+      "scope": "Post hoc read-quality sensitivity; original RNA gates unchanged; no calibrated contamination or DNA/anatomy claim",
+      "corrected_overlap_label": "Explicit retention of both mates; not asserted identical to native extraction"
+    },
+    {
+      "proof_basename": "independent_fragment_coordinate_QA.json",
+      "recorded_proof_sha256": "af3a53ef453219e41a6354ff7e5422d0a79a912e4a5564f92bd02209ad42271d",
+      "status": "PASS",
+      "script_sha256": "938bfb58c69c72c5f5460e358a741652db4fca3ecfff6bcb1af47ecb4f596d04",
+      "decoder_sha256": "813d9fea7fd0d72db856edec679c46337fdd1b5ebf36762902cec82bda382c40",
+      "samples": 14,
+      "directional_summaries": 14,
+      "original_discordant_locus_union_by_pair": 1520,
+      "scope": "All original het/hom-discordant loci, all seven pairs; aggregate proxy, not primary calling replacement"
+    },
+    {
+      "proof_basename": "independent_full_read_cap50_QA.json",
+      "recorded_proof_sha256": "db93e2c531c4b5951509c73262b2deca6c058a3ec2679ad0bef38493b19e1c9e",
+      "status": "PASS",
+      "export_script_sha256": "9f591ccbf20b741a8f49133c0e6685df07e8f58d8e3c18e4324a3dcb3be5f757",
+      "samples": 6,
+      "native_and_independent_comparisons": 15,
+      "complete_read_alignments": 6,
+      "scope": "Post hoc cap50 sensitivity of explicitly selected completed pairs; no absent/failed alignment is counted; no DNA identity or side authentication"
+    },
+    {
+      "proof_basename": "cap50_attempt_status_QA.json",
+      "recorded_proof_sha256": "c0ca47350a02502a2fd9c581297d9ba6251fa1561f029a62827b6b0213073844",
+      "status": "PASS",
+      "script_sha256": "618d61572b8162e3d5d85357f402bf21cb185adf5374e2fe00f490d891d25180",
+      "scope": "Terminal source-bound attempt metadata; not BAM/pair verification or DNA identity"
+    },
+    {
+      "proof_basename": "final_aggregate_verification.json",
+      "recorded_proof_sha256": "35a6f6eaccb2bcbf85666c3707b68e524288782997bb24d6ce38c96b4d8e2e44",
+      "status": "PASS",
+      "scope": "Independent retained aggregate arithmetic/coverage/source-count checks; private count/native comparisons are separately executed; not DNA identity, anatomy, or calibrated contamination"
+    }
+  ],
+  "complete_cap50_input_pairs": 154834599,
+  "complete_cap50_libraries": 6,
+  "complete_cap50_comparisons": 15,
+  "legacy_complete_alignment_recovery": {
+    "DR118": {
+      "status": "PASS",
+      "STAR_input_pairs": 23635110,
+      "recovery": {
+        "original_controller_status": "FAILED_PRESERVED",
+        "original_receipt_sha256": "f7b4898ec923a0f53167941e916a29b110f5d3e5dae37de9de8a96a0397ab2f7",
+        "completed_native_alignment_log_sha256": "984ca9a0597d90c060e8c4b2c708b6fe559ab7906b560bcb1b0097d0c6ee2ebb",
+        "verified_unsorted_BAM_sha256": "4abacd0f24c93f24963eece2442022592c2fc1b67fd238073adee781e27c5b88",
+        "recovery_script_sha256": "d123daa24cb35a85e5ce4055fe2075e77c55714a7f139e5108805f8daceee662",
+        "whole_sources_and_reference_reverified": true,
+        "scope": "Legacy native STAR fully completed after wrapper timeout; separate verified sort/extraction, not an incomplete alignment resume"
+      }
+    },
+    "DR148": {
+      "status": "PASS",
+      "STAR_input_pairs": 25653986,
+      "recovery": {
+        "original_controller_status": "FAILED_PRESERVED",
+        "original_receipt_sha256": "2a78359525414e484bb36ed5902a6cc9cabd6badf8b1a2b9fc18585af9e21f06",
+        "completed_native_alignment_log_sha256": "4c0a73b9db0dab6db69ae98f423407505e0703825feb8a2ac4c45776aa4301cd",
+        "verified_unsorted_BAM_sha256": "fa09b4140c643b9e401fd38ff075d13f804669517ad8b8ee4b170c8f9fd8a2ba",
+        "recovery_script_sha256": "d123daa24cb35a85e5ce4055fe2075e77c55714a7f139e5108805f8daceee662",
+        "whole_sources_and_reference_reverified": true,
+        "scope": "Legacy native STAR fully completed after wrapper timeout; separate verified sort/extraction, not an incomplete alignment resume"
+      }
+    }
+  },
+  "initial_recovery_guard_attempt": "Stopped before output because ALL DONE was checked in redirected stdout; corrected entry requires native Log.out completion and successful stdout. Original attempts preserved.",
+  "native_timeout_cleanup": "Current runner uses isolated POSIX process groups and kills all descendants on timeout; no scientific command parameter change",
+  "local_python_tests": 69,
+  "independent_Linux_Python_tests": 69,
+  "independent_Linux_Python_version": "3.12.15",
+  "test_log_sha256": {
+    "local": "70ffa1a3e1c3c0e786758e54723d9655ce398e72497a8f0da83e6b1d6ea8c2a2",
+    "Linux": "47ec867eba51bc83c9b36fcb314c46e4e9f68dbd2cc51646432ea7d023cf4ed8"
+  },
+  "executed_source_records": [
+    {
+      "path": "scripts/execution_records/rna_cap50_alignment_producer_20261013.txt",
+      "sha256": "e37812750f3a9ab21798e541ac0ad14f4de8443da49af98f8d3624154604d10f",
+      "scope": "Archived actual source bytes; text record, not supported executable entry point"
+    },
+    {
+      "path": "scripts/execution_records/rna_cap50_guarded_alignment_producer_20261013.txt",
+      "sha256": "93be6ee31af35da1f55cde271507f93d4c4cc7a9c3140eeff1df8f1dc3e72d25",
+      "scope": "Archived actual source bytes; text record, not supported executable entry point"
+    },
+    {
+      "path": "scripts/execution_records/rna_legacy_completed_alignment_recovery_corrected_producer_20261013.txt",
+      "sha256": "d123daa24cb35a85e5ce4055fe2075e77c55714a7f139e5108805f8daceee662",
+      "scope": "Archived actual source bytes; text record, not supported executable entry point"
+    },
+    {
+      "path": "scripts/execution_records/rna_legacy_completed_alignment_recovery_producer_20261013.txt",
+      "sha256": "5ebb744a79a5974cc49b2c59b3a2553ca0a06ff4705a953ed76607d142f97ebc",
+      "scope": "Archived actual source bytes; text record, not supported executable entry point"
+    },
+    {
+      "path": "scripts/execution_records/rna_quality_overlap_retained_producer_20261013.txt",
+      "sha256": "06fcf3bc5d3f2df5cb4165b4e71f33ab0c46593c5eecccfe05ace648a91d6204",
+      "scope": "Archived actual source bytes; text record, not supported executable entry point"
+    }
+  ],
+  "aggregate_table_count": 17,
+  "aggregate_rows": 2196,
+  "aggregate_tables": [
+    {
+      "path": "bmc/revision/audit_RNA_CHARR_proxy.tsv",
+      "rows": 28,
+      "sha256": "ada98d504a5268bf2c17eabab687c1a4896abb518b6b5d2e9abc69be71deef5e"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_cap50_alignment_attempts.tsv",
+      "rows": 6,
+      "sha256": "eba318c6cc049e9bc404cfd5656f301f9d120f376112aa33f443e6b620ea78d3"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_cap50_call_transitions.tsv",
+      "rows": 48,
+      "sha256": "72f634fcd514d57be70962eb857dd3a59f59e32c9ff1d57d66f782f8c05ba995"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_cap50_source_QC.tsv",
+      "rows": 6,
+      "sha256": "34ae8c17f1f87eac5e70ff06d5b7d6b6b9c03d23132d12d70dcfe09f2b8ddf2b"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_discordant_fragment_coordinate_diversity.tsv",
+      "rows": 14,
+      "sha256": "636deb7afb8d09617709cd6e8bae705c1049b1ae3ece2a10a5289923e79ddc3f"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_fingerprint_site_coverage.tsv",
+      "rows": 14,
+      "sha256": "bcee2bf468d89f3e25aa1247a41ae550036a8e702c4b8e2007b6d39db2e245db"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_paired_MLE_proxy.tsv",
+      "rows": 364,
+      "sha256": "bb83931bdb12af4f5e5bbb06659e056ba90776e626700fee566609dfa50e7cc6"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_chromosome_strata.tsv",
+      "rows": 154,
+      "sha256": "110cc4313944b5ec39587c699b3743785b5dc789b3747b4ed03921304cb4e0bd"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_depth_AB_grid.tsv",
+      "rows": 1092,
+      "sha256": "c65c29e790e510634de5b1e8cb470ccf2de881b5bcb2da35ab7c299b8bda8b36"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_depth_strata.tsv",
+      "rows": 28,
+      "sha256": "1d2d9cc99aad44bc457acf311ac57887d5b6a01dcf37a76e4bf6321e56d685f4"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_directional_dropout.tsv",
+      "rows": 14,
+      "sha256": "ab049272e16904bd02c9869b5a74d58815464bb405362dec44ea763291b0a71f"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_full_read_cap50.tsv",
+      "rows": 15,
+      "sha256": "deb0a2598fb0d681f280537043f0b42f87b09538ec216fc3c3810ab9a6fe7a30"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_loss_decomposition.tsv",
+      "rows": 7,
+      "sha256": "32adc501d0139f845ad82a1f9c86a3a3d80d2ccdefe1824fe745f464b6a94662"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_unique_high_quality_reads.tsv",
+      "rows": 91,
+      "sha256": "5658caa9148eca9751ade9491d9b7d3874027c68327fdfc41a3b5bb804ddd723"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_pairing_unique_high_quality_reads_overlap_retained.tsv",
+      "rows": 91,
+      "sha256": "6ee1d703f01150f272d576815397a5933da8d2ba10b37f2ead60f37883f98f60"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_read_filter_call_transitions.tsv",
+      "rows": 112,
+      "sha256": "1556afa89eedde2ca096528869780dcae137b50bf3155c1bc9ac4e6cce87370b"
+    },
+    {
+      "path": "bmc/revision/audit_RNA_read_filter_call_transitions_overlap_retained.tsv",
+      "rows": 112,
+      "sha256": "212bcf124b4d39fe1a1b96e00601d6a063107848f430bc1bedbb75d074689d45"
+    }
+  ],
+  "redistribution": "Only aggregate tables/QA/provenance. No FASTQs/BAMs/sketches/QNAMEs/marker-level genotypes or fragment coordinates are included.",
+  "test_phase_scope": "69 RNA-diagnostic-phase tests; final73 adds four retained-reproduction portability guard tests",
+  "retained_reproduction_guard": {
+    "final_expanded_Python_tests": 73,
+    "local_tests_sha256": "95ed8235140754a2f38746daf6b80c19989f2623c511f288a7d5bfb522d65bcd",
+    "independent_Linux_tests_sha256": "0e673ea455e4c35e37b7629ddf94eb1defe94532ee79b4d66bb210d1029c2110",
+    "helper_source_sha256": "ac279f65b34cac6fe32655087ccdb137e5a3c2329302170fa2234966652c3267",
+    "wrapper_source_sha256": "8c8f2046a24250f60b6f3a4f8c7e544621ecb693a16f1782d5ac4f0a77681130",
+    "scientific_stages_source_sha256": "b53e5558072bfbc646bf61df2f2dda8f12f60c582211afd8c2a9cd7ed8c974a2",
+    "fixed_reference_policy": "Manifest-verified copy; unchanged original release; original scientific model tolerances and RNA gates retained",
+    "observed_original_Linux_in_place_table_differences": 31,
+    "maximum_absolute_table_difference": 9.663381206337363e-13,
+    "row_header_text_changes": 0
+  }
+}
