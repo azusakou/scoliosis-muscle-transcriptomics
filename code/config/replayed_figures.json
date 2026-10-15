@@ -1,0 +1,21 @@
+{
+  "scope": "Retained-source figure replay; upstream raw algorithms are not rerun",
+  "figures": [
+    {"id": "Figure 1", "path": "analysis/figures/figure_atlas.pdf", "producer": "analysis/scripts/figure_reviewer_corrections.R", "width_mm": 183, "height_mm": 174},
+    {"id": "Figure 2", "path": "analysis/figures/figure_programmes.pdf", "producer": "analysis/scripts/figure_reviewer_corrections.R", "width_mm": 183, "height_mm": 126},
+    {"id": "Figure 3", "path": "analysis/figures/figure_score.pdf", "producer": "analysis/scripts/figure_reviewer_corrections.R", "width_mm": 183, "height_mm": 158},
+    {"id": "Figure 4", "path": "analysis/figures/figure_validation.pdf", "producer": "analysis/scripts/figure_reviewer_corrections.R", "width_mm": 183, "height_mm": 166},
+    {"id": "Figure 5", "path": "analysis/figures/figure_robustness.pdf", "producer": "analysis/scripts/figure_reviewer_corrections.R", "width_mm": 183, "height_mm": 164},
+    {"id": "Figure S1", "path": "analysis/figures/figure_S1_QC.pdf", "producer": "scripts/11_scrna_qc_figures.R", "width_mm": 183, "height_mm": 135},
+    {"id": "Figure S2", "path": "analysis/figures/figure_S2_unintegrated_UMAP.pdf", "producer": "scripts/11_scrna_qc_figures.R", "width_mm": 89, "height_mm": 75},
+    {"id": "Figure S3", "path": "analysis/figures/figure_S3_dataset_extension.pdf", "producer": "scripts/82_additional_validation_figure.R", "width_mm": 183, "height_mm": 158},
+    {"id": "Figure S4", "path": "analysis/figures/figure_S4_GSE254300_CS_specificity.pdf", "producer": "scripts/83_gse254300_cs_specificity_figure.R", "width_mm": 183, "height_mm": 145},
+    {"id": "Figure S5", "path": "analysis/figures/figure_S5_communication.pdf", "producer": "analysis/scripts/figure_reviewer_corrections.R", "width_mm": 183, "height_mm": 171},
+    {"id": "Figure S6", "path": "analysis/figures/figure_S6_deposit_identity.pdf", "producer": "analysis/scripts/figure_reviewer_corrections.R", "width_mm": 183, "height_mm": 137},
+    {"id": "Figure S7 before", "path": "analysis/figures/figure_S7_before.pdf", "producer": "analysis/scripts/figure_real_cell_expression.R", "width_mm": 183, "height_mm": 190},
+    {"id": "Figure S7 after", "path": "analysis/figures/figure_S7_after.pdf", "producer": "analysis/scripts/figure_real_cell_expression.R", "width_mm": 183, "height_mm": 190},
+    {"id": "Figure S8", "path": "analysis/figures/figure_S8_RNA_pairing.pdf", "producer": "analysis/scripts/figure_rna_pairing.R", "width_mm": 183, "height_mm": 150},
+    {"id": "Figure S9", "path": "analysis/figures/figure_S9_RNA_failure_diagnostics.pdf", "producer": "analysis/scripts/figure_rna_failure_diagnostics.R", "width_mm": 183, "height_mm": 160},
+    {"id": "Figure S10", "path": "analysis/figures/figure_S10_gate_concordance.pdf", "producer": "analysis/scripts/figure_gate_concordance.R", "width_mm": 183, "height_mm": 142}
+  ]
+}

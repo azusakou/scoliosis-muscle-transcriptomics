@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and identify the exact code release used."
+type: software
+title: "Cross-cohort transcriptomic concordance and limits of a multicellular signature in scoliosis paraspinal muscle"
+version: "0.2.0"
+license: MIT
+abstract: "Analysis code and retained numerical source data prepared for public release; no public repository URL or archival DOI has yet been assigned."
+authors:
+  - family-names: Zhang
+    given-names: Chaowei
+  - family-names: Wang
+    given-names: Mingda
+  - family-names: Yang
+    given-names: Shuaiqi
+  - family-names: Yu
+    given-names: Qi
+  - family-names: Yang
+    given-names: Renyu
+  - family-names: Shao
+    given-names: Chunxue
+  - family-names: Yang
+    given-names: Guang
+  - family-names: Wang
+    given-names: Ziheng
