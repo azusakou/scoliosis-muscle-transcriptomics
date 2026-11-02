@@ -1,9 +1,0 @@
-Warning messages:
-1: package ‘Seurat’ was built under R version 4.4.3 
-2: package ‘SeuratObject’ was built under R version 4.4.3 
-3: package ‘sp’ was built under R version 4.4.3 
-Warning message:
-package ‘ggplot2’ was built under R version 4.4.3 
-Audit RNA
-Audit SoupX
-Cell-expression audit complete: 11376 gene x lineage x library x assay summaries.

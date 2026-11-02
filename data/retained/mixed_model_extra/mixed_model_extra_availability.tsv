@@ -1,2 +1,0 @@
-assay	cell_type	gene	available	n_cells	n_nonzero	all_gene_total_source_field	zero_encoding
-SoupX	smooth-muscle-like cell	SLN	TRUE	183	11	nCount_SoupX	every_model_cell_explicit_including_zero

@@ -1,3 +1,0 @@
-assay	stage	n_genes	n_cells	n_target_genes	transformation	source_object
-RNA	before_ambient_correction	38224	14846	158	UMI_counts;per_cell_counts_divided_by_all_gene_UMIs_times_10000;natural_log1p	data/processed/scrna/scrna_annotated.rds
-SoupX	after_SoupX	38224	14846	158	UMI_counts;per_cell_counts_divided_by_all_gene_UMIs_times_10000;natural_log1p	data/processed/scrna/scrna_annotated.rds

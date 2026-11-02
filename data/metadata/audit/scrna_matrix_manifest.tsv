@@ -1,5 +1,0 @@
-patient_id	side	features	raw_barcodes	nonzero_entries	matrix_metadata	path
-H01045	concave	33538	6794880	15597858	"{""format_version"": 2, ""software_version"": ""3.1.0""}"	/Volumes/wang/paper14/ais_paraspinal_ecology/raw/scrna/matrices/H01045_concave_raw_feature_bc_matrix/matrix.mtx.gz
-H01045	convex	33538	6794880	16585811	"{""format_version"": 2, ""software_version"": ""3.1.0""}"	/Volumes/wang/paper14/ais_paraspinal_ecology/raw/scrna/matrices/H01045_convex_raw_feature_bc_matrix/matrix.mtx.gz
-H66206	concave	36601	6794880	16053784	"{""software_version"": ""Cell Ranger 4"", ""format_version"": 2}"	/Volumes/wang/paper14/ais_paraspinal_ecology/raw/scrna/matrices/H66206_concave_raw_feature_bc_matrix/matrix.mtx.gz
-H66206	convex	36601	6794880	18009893	"{""software_version"": ""Cell Ranger 4"", ""format_version"": 2}"	/Volumes/wang/paper14/ais_paraspinal_ecology/raw/scrna/matrices/H66206_convex_raw_feature_bc_matrix/matrix.mtx.gz

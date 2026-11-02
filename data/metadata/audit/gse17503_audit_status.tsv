@@ -1,3 +1,0 @@
-gate	status	value	interpretation
-biopsy_culture_pairing	PASS	5_complete_pairs	Eligible for tissue-versus-culture reference sensitivity only
-side_labels	FAIL	absent	Never eligible for concave-versus-convex inference

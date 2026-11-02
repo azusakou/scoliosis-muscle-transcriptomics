@@ -1,5 +1,0 @@
-check	maximum_absolute_error	tolerance	guard_applies
-original_A_logFC	5.10702591327572e-15	1e-07	TRUE
-original_B_logFC_archived_TMM	3.8657965717448e-13	1e-07	TRUE
-original_B_factor_transfer	0	1e-14	TRUE
-recalculated_B7_factor_vs_archived_diagnostic	5.84153915572649e-07	NA	FALSE

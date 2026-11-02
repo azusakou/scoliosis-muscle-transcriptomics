@@ -1,3 +1,0 @@
-assay	n_genes	n_cells	n_export_target_genes	n_export_nonzero_records	all_gene_total_source_field
-RNA	38224	14846	165	529219	nCount_RNA
-SoupX	38224	14846	165	516407	nCount_SoupX
