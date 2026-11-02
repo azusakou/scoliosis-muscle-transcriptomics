@@ -1,9 +1,0 @@
-name: ais-rna-fingerprint-check
-channels:
-  - conda-forge
-  - bioconda
-dependencies:
-  - python=3.12
-  - star=2.7.11b
-  - samtools=1.24
-  - somalier=0.3.5
